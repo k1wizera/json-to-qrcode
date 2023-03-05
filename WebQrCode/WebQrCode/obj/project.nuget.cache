@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7WXpRxi0fJXzDarvMuPvnbyLM5vEac04prQk/ujLhvqBonWxUc5AU+U3kNl/idr4rC/nFYsDLyo+ynPKOeqyrg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\json-to-qrcode\\WebQrCode\\WebQrCode\\WebQrCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otavio_faria\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\otavio_faria\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\otavio_faria\\.nuget\\packages\\qrcoder\\1.4.2\\qrcoder.1.4.2.nupkg.sha512",
+    "C:\\Users\\otavio_faria\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
